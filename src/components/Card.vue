@@ -41,6 +41,7 @@ function nameConvert(params) {
     padding: 1.5em;
     display: flex;
     &-title {
+        font-weight: 600;
         font-size: 32px;
         margin-bottom: 0.5em;
     }
