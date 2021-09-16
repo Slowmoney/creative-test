@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+## Запуск 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+npm run dev
 
-## Recommended IDE Setup
+## Тестовое задание
+Данное задание рассчитано на применение фреймворка - react / vue / angular
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+Задание рассчитано примерно на 4 часа.
+
+Задача:
+
+Сверстать страницу с карточками квартир, визуальная часть по желанию. На карточку квартиры добавить значок Like. С возможностью отметить понравившуюся квартиру.
+
+Верстка должна быть адаптивной. Данные корректно отображаться на всех разрешениях и устройствах.
+
+Получение данных для отображения реализовать при помощи имитации получения данных по API.
+
+Условно считается что получаемые данные имеют формат entities.json
